@@ -1,4 +1,4 @@
-you just need use flowing code to init checkbox.
+###you just need use flowing code to init checkbox.
 ```html
 <div id="ckPlugin"></div>
 ```
@@ -11,7 +11,7 @@ chk.start();
 *[1,2,3.....] is text for display in you checkbox 
 */
 ```
-demo
+###demo
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//Dth XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/Dth/xhtml1-transitional.dth">
 <html xmlns="http://www.w3.org/1999/xhtml">
