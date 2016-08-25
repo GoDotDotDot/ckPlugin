@@ -1,8 +1,8 @@
-function ckCheck (mask,num,text) {
+function ckCheck (mask,text) {
 		this.mask = mask;//mask code for default value 掩码值，用于默认值
 		this.temp = mask;// temp for cache and store which checkbox is selected 缓存值用于操作，并且存储哪一个checkbox被选中。
 		this.nodes = [];//store node
-		this.num = num;//nodes count
+		this.num = text.length;//nodes count
 		this.text = text//per node text
 	}
 	ckCheck.prototype={
