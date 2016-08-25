@@ -1,4 +1,7 @@
 you just need use flowing code to init checkbox.
+```html
+<div id="ckPlugin"></div>
+```
 ```js
 var chk = new ckCheck(7,10,[1,2,3,4,5,6,7,8,9,10])
 chk.start();
